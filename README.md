@@ -37,11 +37,13 @@ I am currently pursuing my **M.S. in Computer Science at UT Dallas** (Expected D
   [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
   [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://dev.java/)
   [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cplusplus.com/)
-  [![SQL](https://skillicons.dev/icons?i=sql&theme=dark)](https://en.wikipedia.org/wiki/SQL)
+  [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
   [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
   [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org/)
   [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
+
   <br />
+  
   [![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/)
   [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
   [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
