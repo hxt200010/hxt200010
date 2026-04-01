@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3D Tech Stack Sphere</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body { 
+      background: #0f172a; /* Matches your profile's 'tokyonight' dark theme */
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      height: 100vh; 
+      margin: 0; 
+      color: #38bdf8; /* Matches your profile's blue accent */
+      font-family: 'Space Grotesk', sans-serif; 
+      overflow: hidden;
+    }
+    .tagcloud { 
+      font-size: 22px; 
+      font-weight: 600; 
+    }
+    .tagcloud--item:hover { 
+      color: #ffffff; 
+      cursor: grab;
+      text-shadow: 0 0 10px #38bdf8;
+    }
+    .tagcloud--item:active {
+      cursor: grabbing;
+    }
+  </style>
+</head>
+<body>
+  <!-- This is the container for the 3D sphere -->
+  <div class="content"></div>
+
+  <!-- Loading the TagCloud.js library -->
+  <script src="https://cdn.jsdelivr.net/npm/TagCloud@2.2.0/dist/TagCloud.min.js"></script>
+  <script>
+    const texts = [
+      'Python', 'JavaScript', 'TypeScript', 'Java', 'C++',
+      'SQL', 'React', 'Next.js', 'Node.js', 'FastAPI',
+      'MongoDB', 'PostgreSQL', 'PyTorch', 'TensorFlow',
+      'AWS', 'Azure', 'Git', 'Docker', 'Power BI', 'Tableau', 'Excel'
+    ];
+
+    // Initialize TagCloud
+    TagCloud('.content', texts, {
+      radius: 280,       // Size of the sphere
+      maxSpeed: 'fast',  // Max rotation speed when dragged
+      initSpeed: 'normal',// Initial auto-rotation speed
+      direction: 135,
+      keep: true         // Keep rotating after mouse out
+    });
+  </script>
+</body>
+</html>

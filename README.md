@@ -4,16 +4,14 @@
     <b>AI Engineer &nbsp;|&nbsp; Software Developer</b>
   </p>
   
-  <a href="https://anthonytranportfolio.me/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=2000&color=38bdf8&center=true&vCenter=true&width=500&lines=I'm+passionate+in+computer+science;I+have+3+years+of+experience" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=800&lines=Computer+Science+student+with+2+years+software+dev+experience;1+year+of+experience+in+AI+deployment+%26+Machine+Learning;Passionate+about+Data+Science+%26+Analysis;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
   
   <br />
   
   <p>
     <a href="https://anthonytranportfolio.me/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:tqnhuy2000@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com/in/anthony-tran-25b627273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:tghuy2000@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/anthony-tran-194b05277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
 
