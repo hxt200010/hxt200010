@@ -4,7 +4,7 @@
     <b>AI Engineer &nbsp;|&nbsp; Software Developer</b>
   </p>
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=800&lines=Computer+Science+student+with+2+years+software+dev+experience;1+year+of+experience+in+AI+deployment+%26+Machine+Learning;Passionate+about+Data+Science+%26+Analysis;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=1000&lines=Computer+Science+student+with+2+years+software+experience;1+year+of+experience+in+AI+deployment+%26+Machine+Learning;Passionate+about+Data+Science+%26+Analysis;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
   
   <br />
   
@@ -31,9 +31,27 @@ I am currently pursuing my **M.S. in Computer Science at UT Dallas** (Expected D
 
 <div align="center">
   <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,sql,react,nextjs,nodejs,fastapi,mongodb,postgres,pytorch,tensorflow,aws,azure,git,docker&theme=dark&perline=9" />
-  </a>
+  
+  [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
+  [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
+  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://dev.java/)
+  [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cplusplus.com/)
+  [![SQL](https://skillicons.dev/icons?i=sql&theme=dark)](https://en.wikipedia.org/wiki/SQL)
+  [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+  [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org/)
+  [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
+  <br />
+  [![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/)
+  [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
+  [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org/)
+  [![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/)
+  [![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com/)
+  [![Azure](https://skillicons.dev/icons?i=azure&theme=dark)](https://azure.microsoft.com/)
+  [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+  [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
+
   <br />
   <br />
 </div>
