@@ -4,7 +4,7 @@
     <b>AI Engineer &nbsp;|&nbsp; Software Developer</b>
   </p>
   
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=800&lines=Computer+Science+student+with+2+years+software+dev+experience;1+year+of+experience+in+AI+deployment+%26+Machine+Learning;Passionate+about+Data+Science+%26+Analysis;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=800&lines=Computer+Science+student+with+2+years+software+dev+experience;1+year+of+experience+in+AI+deployment+%26+Machine+Learning;Passionate+about+Data+Science+%26+Analysis;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
   
   <br />
   
@@ -17,17 +17,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am currently pursuing my **M.S. in Computer Science at UT Dallas** (Expected Dec 2026), specializing in merging robust software engineering with artificial intelligence. 
 
-- 💡 **Focus:** Building highly scalable, AI-integrated full-stack applications and deploying machine learning models at scale.
-- 🛠️ **Experience:** Developed enterprise-grade customer data platforms, reducing manual workflows by **40%**, and mentored over **100+ students** in AI fundamentals using Microsoft Azure.
-- 🎯 **Goal:** Seeking impactful **Software Engineering** or **AI Engineering** roles to build innovative cloud and data-driven solutions.
+- **Focus:** Building highly scalable, AI-integrated full-stack applications and deploying machine learning models at scale.
+- **Experience:** Developed enterprise-grade customer data platforms, reducing manual workflows by **40%**, and mentored over **100+ students** in AI fundamentals using Microsoft Azure.
+- **Goal:** Seeking impactful **Software Engineering** or **AI Engineering** roles to build innovative cloud and data-driven solutions.
 
 ---
 
-### ⚡ Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
   <br />
@@ -40,16 +40,16 @@ I am currently pursuing my **M.S. in Computer Science at UT Dallas** (Expected D
 
 ---
 
-### 🚀 Selected Works
+### Selected Works
 
-#### [Intelligent Python Assistant ✨](https://anthonytranportfolio.me/)
+#### [Intelligent Python Assistant](https://anthonytranportfolio.me/)
 > RAG-based AI chatbot providing highly accurate coding support and real-time debugging directly from Python 3.13 documentation.
 - **Technologies:** `Python`, `LangChain`, `OpenAI API`, `FastAPI`, `Next.js`, `FAISS`
 
-#### [Discord Artificial Intelligence Bot 🎮](https://github.com/hxt200010/DiscordBot)
+#### [Discord Artificial Intelligence Bot](https://github.com/hxt200010/DiscordBot)
 > Fully immersive Discord bot with **100+ slash commands** featuring gamified role-based progression and machine learning education for **500+ users**, driving a **60% increase** in learning engagement.
 - **Technologies:** `Node.js`, `JavaScript`, `OpenAI API`, `MongoDB`, `Render`
 
-#### [Predictive Recommender System 📊](https://anthonytranportfolio.me/)
+#### [Predictive Recommender System](https://anthonytranportfolio.me/)
 > Personalized booking recommendation engine utilizing ensemble learning metrics for over **10,000+ users**.
 - **Technologies:** `Python`, `Gradient Boosting`, `SQL`, `Machine Learning`
