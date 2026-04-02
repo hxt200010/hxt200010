@@ -4,7 +4,7 @@
     <b>AI Engineer &nbsp;|&nbsp; Software Developer</b>
   </p>
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=1000&lines=CS+Student+with+Software+Experience;1+Year+AI+%26+Machine+Learning+Experience;Passionate+about+Data+Science+%26+Analytics;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=4000&pause=2000&color=38bdf8&center=true&vCenter=true&width=1000&lines=Computer+Science+student+with+2+years+software+experience;1+year+of+experience+in+AI+deployment+%26+Machine+Learning;Passionate+about+Data+Science+%26+Analysis;Python,+SQL,+Excel,+Power+BI,+Tableau" alt="Typing SVG" />
   
   <br />
   
