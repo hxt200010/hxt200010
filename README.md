@@ -31,45 +31,46 @@ I am currently pursuing my **M.S. in Computer Science at UT Dallas** (Expected D
 
 <div align="center">
 
-  <h4 style="margin-bottom: 5px;">Languages</h4>
-  [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/) &nbsp;&nbsp;
-  [![R](https://skillicons.dev/icons?i=r&theme=dark)](https://www.r-project.org/) &nbsp;&nbsp;
-  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://dev.java/) &nbsp;&nbsp;
-  [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cplusplus.com/) &nbsp;&nbsp;
-  [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
-  [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/) &nbsp;&nbsp;
-  [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/) &nbsp;&nbsp;
-  [![MATLAB](https://skillicons.dev/icons?i=matlab&theme=dark)](https://www.mathworks.com/products/matlab.html)
+  <h4 style="margin-bottom: 10px;">Languages</h4>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r&theme=dark" alt="R" /></a>&nbsp;&nbsp;
+  <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" /></a>&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" /></a>
+
+  <br /><br />
+
+  <h4 style="margin-bottom: 10px;">AI, Data & Cloud</h4>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" /></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" /></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+
+  <br /><br />
+
+  <h4 style="margin-bottom: 10px;">Web & Databases</h4>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
+
+  <br /><br />
+
+  <h4 style="margin-bottom: 10px;">Analytics & BI</h4>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /></a>&nbsp;&nbsp;
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
   <br />
-
-  <h4 style="margin-bottom: 5px;">AI, Data & Cloud</h4>
-  [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org/) &nbsp;&nbsp;
-  [![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) &nbsp;&nbsp;
-  [![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)](https://opencv.org/) &nbsp;&nbsp;
-  [![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com/) &nbsp;&nbsp;
-  [![Azure](https://skillicons.dev/icons?i=azure&theme=dark)](https://azure.microsoft.com/) &nbsp;&nbsp;
-  [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/) &nbsp;&nbsp;
-  [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
-
-  <br />
-
-  <h4 style="margin-bottom: 5px;">Web & Databases</h4>
-  [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/) &nbsp;&nbsp;
-  [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org/) &nbsp;&nbsp;
-  [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/) &nbsp;&nbsp;
-  [![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) &nbsp;&nbsp;
-  [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/) &nbsp;&nbsp;
-  [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/) &nbsp;&nbsp;
-  [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
-
-  <br />
-
-  <h4 style="margin-bottom: 5px;">Analytics & BI</h4>
-  [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
-  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) &nbsp;&nbsp;
-  [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
 </div>
 
 ---
