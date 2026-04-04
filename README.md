@@ -90,40 +90,16 @@
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=hxt200010&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hxt200010&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff&rank_icon=github" />&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxt200010&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+![Stats](https://github-readme-stats.vercel.app/api?username=hxt200010&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxt200010&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8)
 
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hxt200010&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=38bdf8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hxt200010/hxt200010/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hxt200010/hxt200010/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/hxt200010/hxt200010/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
