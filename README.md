@@ -29,13 +29,13 @@
 
 ## About Me
 
-> I am currently pursuing my **M.S. in Computer Science at UT Dallas** *(Expected Dec 2026)*, specializing in merging robust software engineering with artificial intelligence.
+> I am currently pursuing my **M.S. in Computer Science at UT Dallas** *(Expected Dec 2026)*, specializing in **Data Science**, **Machine Learning**, and building data-driven intelligent systems.
 
 | | |
 |---|---|
-| **Focus** | Building highly scalable, AI-integrated full-stack applications and deploying machine learning models at scale |
-| **Experience** | Developed enterprise-grade customer data platforms, reducing manual workflows by **40%**, and mentored over **100+ students** in AI fundamentals using Microsoft Azure |
-| **Goal** | Seeking impactful **Software Engineering** or **AI Engineering** roles to build innovative cloud and data-driven solutions |
+| **Focus** | Extracting actionable insights from complex datasets using **Python**, **SQL**, **R**, statistical modeling, and machine learning — with expertise in **Pandas**, **NumPy**, **Scikit-Learn**, **PyTorch**, and visualization tools like **Tableau**, **Power BI**, and **Matplotlib** |
+| **Experience** | Developed enterprise-grade customer data platforms, reducing manual workflows by **40%**, built predictive models for **10,000+ users**, and mentored over **100+ students** in AI fundamentals using Microsoft Azure |
+| **Goal** | Seeking impactful **Data Science** or **AI Engineering** roles to turn raw data into strategic, production-ready solutions |
 
 ---
 
