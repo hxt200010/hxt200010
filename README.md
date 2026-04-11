@@ -29,13 +29,13 @@
 
 ## About Me
 
-> I am currently pursuing my **M.S. in Computer Science at UT Dallas** *(Expected Dec 2026)*, specializing in **Data Science**, **Machine Learning**, and building data-driven intelligent systems.
+> I am currently pursuing my **M.S. in Computer Science at UT Dallas** _(Expected Dec 2026)_, specializing in **Data Science**, **Machine Learning**, and building data-driven intelligent systems.
 
-| | |
-|---|---|
-| **Focus** | Extracting actionable insights from complex datasets using **Python**, **SQL**, **R**, statistical modeling, and machine learning — with expertise in **Pandas**, **NumPy**, **Scikit-Learn**, **PyTorch**, and visualization tools like **Tableau**, **Power BI**, and **Matplotlib** |
-| **Experience** | Developed enterprise-grade customer data platforms, reducing manual workflows by **40%**, built predictive models for **10,000+ users**, and mentored over **100+ students** in AI fundamentals using Microsoft Azure |
-| **Goal** | Seeking impactful **Data Science** or **AI Engineering** roles to turn raw data into strategic, production-ready solutions |
+|                |                                                                                                                                                                                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Focus**      | Extracting actionable insights from complex datasets using **Python**, **SQL**, **R**, statistical modeling, and machine learning — with expertise in **Pandas**, **NumPy**, **Scikit-Learn**, **PyTorch**, and visualization tools like **Tableau**, **Power BI**, and **Matplotlib** |
+| **Experience** | Developed enterprise-grade customer data platforms, reducing manual workflows by **40%**, built predictive models for **10,000+ users**, and mentored over **100+ students** in AI fundamentals using Microsoft Azure                                                                  |
+| **Goal**       | Seeking impactful **Data Science** or **AI Engineering** roles to turn raw data into strategic, production-ready solutions                                                                                                                                                             |
 
 ---
 
@@ -112,6 +112,7 @@
 <td width="50%" valign="top">
 
 ### [Intelligent Python Assistant](https://anthonytranportfolio.me/)
+
 > RAG-based AI chatbot providing highly accurate coding support and real-time debugging directly from Python 3.13 documentation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -124,6 +125,7 @@
 <td width="50%" valign="top">
 
 ### [Discord AI Bot](https://github.com/hxt200010/DiscordBot)
+
 > Fully immersive Discord bot with **100+ slash commands** featuring gamified role-based progression and ML education for **500+ users**, driving a **60% increase** in learning engagement.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -137,6 +139,7 @@
 <td width="50%" valign="top">
 
 ### [Predictive Recommender System](https://anthonytranportfolio.me/)
+
 > Personalized booking recommendation engine utilizing ensemble learning metrics for over **10,000+ users**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -147,6 +150,7 @@
 <td width="50%" valign="top">
 
 ### More Coming Soon...
+
 > Always building, always shipping. Check back for new projects!
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-a78bfa?style=flat-square&logoColor=white)](https://anthonytranportfolio.me/)
@@ -161,6 +165,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
 
-*If you find my work interesting, consider giving a star. Let's connect and build something amazing together.*
+_If you find my work interesting, consider giving a star. Let's connect and build something amazing together._
 
 </div>
