@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Anthony Tran 👋
+# Anthony Tran
 **M.S. Computer Science at UT Dallas** • Machine Learning & Intelligent Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anthonytranportfolio.me-10b981?style=flat-square&logo=google-chrome&logoColor=white)](https://anthonytranportfolio.me/)
@@ -11,18 +11,18 @@
 
 <br />
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a graduate student pursuing my **M.S. in Computer Science at the University of Texas at Dallas** *(graduating Dec 2026)*. My primary focus lies in **Machine Learning**, **Data Science**, and building practical, data-driven software that solves real problems.
 
-* 🔭 **Current Focus:** Building RAG-powered developer tools, scalable data pipelines, and exploring applied ML models.
-* 💼 **Experience:** Developed enterprise customer data platforms that automated manual reporting workflows, engineered predictive ranking models for 10k+ users, and led technical workshops mentoring students in cloud & AI fundamentals.
-* 🌱 **Currently exploring:** Advanced LLM reasoning patterns, agentic workflows, and high-performance ML inference.
-* 🎯 **Looking for:** Data Science and AI / Software Engineering roles where I can contribute to production-grade systems.
+* **Current Focus:** Building RAG-powered developer tools, scalable data pipelines, and exploring applied ML models.
+* **Experience:** Developed enterprise customer data platforms that automated manual reporting workflows, engineered predictive ranking models for 10k+ users, and led technical workshops mentoring students in cloud & AI fundamentals.
+* **Currently Exploring:** Advanced LLM reasoning patterns, agentic workflows, and high-performance ML inference.
+* **Looking For:** Data Science and AI / Software Engineering roles where I can contribute to production-grade systems.
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 
 <table>
   <tr>
@@ -75,19 +75,19 @@ I'm a graduate student pursuing my **M.S. in Computer Science at the University 
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://anthonytranportfolio.me/">Intelligent Python Assistant</a></h4>
+      <h4><a href="https://anthonytranportfolio.me/">Intelligent Python Assistant</a></h4>
       <p>A RAG-powered developer assistant built to provide contextual code completions and real-time debugging directly grounded in official documentation.</p>
       <p>
         <code>Python</code> • <code>LangChain</code> • <code>FastAPI</code> • <code>Next.js</code> • <code>OpenAI</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>💬 <a href="https://github.com/hxt200010/DiscordBot">Discord AI Bot</a></h4>
+      <h4><a href="https://github.com/hxt200010/DiscordBot">Discord AI Bot</a></h4>
       <p>An interactive community bot featuring 100+ slash commands, dynamic role progressions, and embedded ML learning modules serving 500+ active users.</p>
       <p>
         <code>Node.js</code> • <code>JavaScript</code> • <code>MongoDB</code> • <code>OpenAI API</code>
@@ -96,14 +96,14 @@ I'm a graduate student pursuing my **M.S. in Computer Science at the University 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://anthonytranportfolio.me/">Predictive Recommender System</a></h4>
+      <h4><a href="https://anthonytranportfolio.me/">Predictive Recommender System</a></h4>
       <p>A personalized recommendation engine leveraging gradient-boosted ensemble models to deliver tailored ranking and suggestions across 10,000+ users.</p>
       <p>
         <code>Python</code> • <code>Scikit-Learn</code> • <code>SQL</code> • <code>Pandas</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://anthonytranportfolio.me/">Personal Portfolio</a></h4>
+      <h4><a href="https://anthonytranportfolio.me/">Personal Portfolio</a></h4>
       <p>Interactive web showcase highlighting machine learning case studies, data analytics dashboards, and software engineering projects.</p>
       <p>
         <code>Next.js</code> • <code>React</code> • <code>TailwindCSS</code> • <code>Vercel</code>
@@ -114,17 +114,18 @@ I'm a graduate student pursuing my **M.S. in Computer Science at the University 
 
 ---
 
-### ☕ Beyond the Terminal
+### Beyond the Terminal
 
-When I'm not coding or training models, you'll usually find me:
-* 🏋️ Working out & staying active
-* ♟️ Playing chess or diving into strategy games
-* 🎧 Listening to lofi and discovering new music
-* 📚 Reading up on the latest papers in AI & distributed systems
+When I'm not coding or training models:
+* Staying active and working out
+* Playing chess and strategy games
+* Exploring music production and lofi
+* Reading papers on distributed systems and AI architectures
 
 ---
 
 <div align="center">
-  <sub>Feel free to reach out for collaborations, project discussions, or just a friendly chat!</sub>
+  <sub>Feel free to reach out for collaborations, project discussions, or just a chat.</sub>
 </div>
+
 
