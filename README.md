@@ -14,12 +14,14 @@
 
 ### About
 
-I am a graduate student pursuing an **M.S. in Computer Science at The University of Texas at Dallas** *(Graduating Dec 2026)*, specializing in **Machine Learning**, **Data Science**, and **Intelligent Software Systems**.
+I am a graduate student pursuing an **M.S. in Computer Science** *(focused on **Data Science & Machine Learning**)* along with a **B.S. in Electrical Engineering** at **The University of Texas at Dallas** *(Graduating Dec 2026)*.
 
-* **Current Focus:** Developing RAG architectures, LLM-powered developer tooling, and production ML pipelines.
-* **Background:** Built enterprise customer data solutions that reduced workflow overhead by 40%, engineered predictive recommendation models serving 10k+ users, and led technical workshops mentoring 100+ students in cloud and AI fundamentals.
-* **Currently Exploring:** Agentic workflows, distributed inference, and high-throughput data processing systems.
-* **Open To:** Data Science, Machine Learning Engineering, and Full-Stack AI Software roles.
+Working at the intersection of **intelligent software and hardware systems**, my background bridges data science, machine learning models, and low-level engineering.
+
+* **Current Focus:** Developing RAG architectures, machine learning pipelines, and high-performance hardware-software systems.
+* **Background:** Built enterprise customer data platforms that reduced workflow overhead by 40%, engineered predictive recommendation models serving 10k+ users, and led technical workshops mentoring 100+ students in cloud and AI fundamentals.
+* **Currently Exploring:** Embedded AI / Edge ML, agentic workflows, and high-throughput data processing.
+* **Open To:** Data Science, Machine Learning Engineering, Embedded AI, and Software Engineering roles.
 
 ---
 
@@ -27,9 +29,9 @@ I am a graduate student pursuing an **M.S. in Computer Science at The University
 
 <div align="center">
 
-#### Core Languages
+#### Programming & Hardware
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,postgres,ts,js,cpp,java,r&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,ts,js,cpp,c,matlab,r&theme=dark" alt="Languages" />
 </a>
 
 <br />
